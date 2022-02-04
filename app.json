@@ -7,9 +7,9 @@
     "share",
     "file"
   ],
-  "success_url": "https://github.com/X-Gorn/File-Sharing",
-  "website": "https://github.com/X-Gorn",
-  "repository": "https://github.com/X-Gorn/File-Sharing",
+  "success_url": "https://github.com/Shathees27/File-Sharing",
+  "website": "https://github.com/Shathees27",
+  "repository": "https://github.com/Shathees27/File-Sharing",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
